@@ -1,0 +1,29 @@
+# Maven - todos os projetos filhos
+**/target/
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/pom.xml.bak
+
+# IntelliJ IDEA - todos os projetos
+**/.idea/
+**/*.iml
+**/out/
+
+# Java compilados
+**/*.class
+**/*.jar
+**/*.war
+
+# Logs e temp
+**/*.log
+*~
+*.swp
+.DS_Store
+
+# IDE Eclipse (caso use)
+**/.settings/
+**/.project
+**/.classpath
+**/metadata/
